@@ -1,0 +1,15 @@
+{
+  "name": "pricing",
+  "version": "1.0.0",
+  "description": "server side code that returns appropriate JSON packages for pricing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jennica Goo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
